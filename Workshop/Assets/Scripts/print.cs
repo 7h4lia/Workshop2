@@ -6,6 +6,8 @@ public class print : MonoBehaviour
     void Start()
     {
         print("tjo");
+        //inte bra 
+        print("gubbe");
     }
 
     // Update is called once per frame
